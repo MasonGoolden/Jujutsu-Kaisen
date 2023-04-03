@@ -1,0 +1,174 @@
+/* CSS Document */
+
+
+/*
+
+font-family: 'Arvo', serif;
+font-family: 'Delicious Handrawn', cursive;
+font-family: 'Fira Code', monospace;
+font-family: 'Sawarabi Mincho', serif;
+font-family: 'Sriracha', cursive;
+ 
+
+*/
+  @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Delicious+Handrawn&family=Fira+Code:wght@300&family=Sawarabi+Mincho&family=Sriracha&display=swap');
+
+/*FONT*/
+
+
+/* CSS Browser Reset */
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+
+body {
+    
+}
+
+header img{
+    
+}
+
+.authormain {
+    background-color: #2C2A4A;
+}
+
+.authormain img{
+    padding-left: 43%;
+}
+
+.authormain p{
+       background-color: #4F518C;
+    text-align: center;
+    margin: 0px 100px;
+    font-size: 2em;
+    font-family: 'Sawarabi Mincho', serif;
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+
+
+
+#japlogo img{
+    margin-left: 25%;
+}
+
+main {
+    background-color: #907AD6;
+}
+
+main h1{
+    font-size: 5em;
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+    background-color: #2c2a4a;
+    display: block;
+}
+
+main p{
+    background-color: #4F518C;
+    text-align: center;
+    margin: 0px 100px;
+    font-size: 2em;
+    font-family: 'Sawarabi Mincho', serif;
+}
+
+main img{
+    float: none;
+}
+
+main h4{
+    font-size: 5em;
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+    background-color: #2c2a4a;
+    display: block;
+    color: antiquewhite;
+}
+
+.maincurseimage img{
+    padding-left: 15%;
+}
+
+.maincurseimage {
+    background-color: #907AD6;
+}
+
+.maincurseimage2 {
+    background-color: white;
+}
+
+.maincurseimage2 img{
+    padding-left: 485px;
+}
+
+.cursedspiritmain p{
+     background-color: #DABFFF;
+    text-align: center;
+    margin: 0px 100px;
+    font-size: 2em;
+    font-family: 'Sawarabi Mincho', serif;
+}
+
+.cursedspiritmain{
+    background-color: #2C2A4A;
+}
+
+.column1 {
+float: left;
+}
+
+.column2 {
+    float: right;
+}
+
+.EnergyMain {
+    background-color: black;
+}
+
+
+
+nav {
+    background-color: #3f3d38;
+	
+}
+
+nav ul{
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+    padding: 20px;
+	font-size: 1.4em;
+	font-family: 'Cinzel', serif;
+	
+}
+
+nav li a {
+    color: white;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+nav li:hover{
+	background-color: black;
+}
+
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+form {
+    font-size: 3em;
+    font-family: 'Fira Code', monospace;
+}
+
+label {
+    color: white;
+}
